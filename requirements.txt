@@ -1,0 +1,6 @@
+python-telegram-bot>=20.0
+aiohttp>=3.8.0
+yt-dlp>=2025.9.1
+
+
+BOT_TOKEN = "8394756307:AAECQ_53qXf_JOtsfrmgPugoINJH527lylQ"
