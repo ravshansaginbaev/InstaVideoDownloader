@@ -37,3 +37,5 @@ Download Instagram videos via Telegram with queueing, rate limiting, and private
 2. **Upgrade pip**  
 ```bash
 python -m pip install --upgrade pip
+
+Replace TELEGRAM_BOT_TOKEN with the one u got from BotFather
